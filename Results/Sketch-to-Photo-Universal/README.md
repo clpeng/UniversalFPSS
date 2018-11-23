@@ -1,4 +1,4 @@
-####[Back to Home](../../README.md)
+[Back to Home](https://github.com/clpeng/UniversalFPSS)
 
 >This folder includes results of face sketch-to-photo translation on universal styles.
 

@@ -18,7 +18,7 @@ We provide more experimental results in the folders:
 
 - [`Photo-to-Sketch Translation on CUFS:`](Results/Photo-to-Sketch-CUFS/README.md)
 
-<img src="Results/Photo-to-Sketch-CUFS/Results/10.jpg" width="20%">&emsp;&emsp;&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/69.jpg" width="20%">&emsp;&emsp;&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/83.jpg" width="20%">&emsp;&emsp;&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/95.jpg" width="20%">&emsp;&emsp;&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/194.jpg" width="20%">&emsp;&emsp;&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/298.jpg" width="20%">&emsp;&emsp;&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/270.jpg" width="20%">&emsp;&emsp;&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/315.jpg" width="20%"> 
+<img src="Results/Photo-to-Sketch-CUFS/Results/10.jpg" width="20%">&emsp;&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/69.jpg" width="20%">&emsp;&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/83.jpg" width="20%">&emsp;&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/95.jpg" width="20%">&emsp;&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/194.jpg" width="20%">&emsp;&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/298.jpg" width="20%">&emsp;&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/270.jpg" width="20%">&emsp;&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/315.jpg" width="20%"> 
 
 
 - [`Photo-to-Sketch Translation on Universal Styles:`](Results/Photo-to-Sketch-Universal/README.md)
@@ -27,7 +27,7 @@ We provide more experimental results in the folders:
 
 - [`Sketch-to-Photo Translation on CUFS:`](Results/Sketch-to-Photo-CUFS/README.md)
 
-<img src="Results/Sketch-to-Photo-CUFS/Results/7.jpg" width="20%">&emsp;&emsp;&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/67.jpg" width="20%">&emsp;&emsp;&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/87.jpg" width="20%">&emsp;&emsp;&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/128.jpg" width="20%">&emsp;&emsp;&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/188.jpg" width="20%">&emsp;&emsp;&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/189.jpg" width="20%">&emsp;&emsp;&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/214.jpg" width="20%">&emsp;&emsp;&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/243.jpg" width="20%"> 
+<img src="Results/Sketch-to-Photo-CUFS/Results/7.jpg" width="20%">&emsp;&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/67.jpg" width="20%">&emsp;&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/87.jpg" width="20%">&emsp;&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/128.jpg" width="20%">&emsp;&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/188.jpg" width="20%">&emsp;&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/189.jpg" width="20%">&emsp;&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/214.jpg" width="20%">&emsp;&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/243.jpg" width="20%"> 
 
 - [`Sketch-to-Photo Translation on Universal Styles:`](Results/Sketch-to-Photo-Universal/README.md)
 
