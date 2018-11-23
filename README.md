@@ -16,22 +16,22 @@ This paper is the first to address universal face photo-sketch style transfer pr
 
 We provide more experimental results in the folders:
 
-- [`Photo-to-Sketch Translation on CUFS:`](Results/Photo-to-Sketch-CUFS/README.md)
+- [`Photo-to-Sketch Translation on CUFS:`](Results/Photo-to-Sketch-CUFS/)
 
 <img src="Results/Photo-to-Sketch-CUFS/Results/10.jpg" width="20%">&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/69.jpg" width="20%">&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/83.jpg" width="20%">&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/95.jpg" width="20%">&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/194.jpg" width="20%">&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/298.jpg" width="20%">&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/270.jpg" width="20%">&emsp;&emsp;<img src="Results/Photo-to-Sketch-CUFS/Results/315.jpg" width="20%"> 
 
 
-- [`Photo-to-Sketch Translation on Universal Styles:`](Results/Photo-to-Sketch-Universal/README.md)
+- [`Photo-to-Sketch Translation on Universal Styles:`](Results/Photo-to-Sketch-Universal/)
 
 <img src="Results/Photo-to-Sketch-Universal/Results/10.jpg" width="40%">&emsp;&emsp;&emsp;&emsp;<img src="Results/Photo-to-Sketch-Universal/Results/63.jpg" width="40%">&emsp;&emsp;&emsp;&emsp;<img src="Results/Photo-to-Sketch-Universal/Results/92.jpg" width="40%">&emsp;&emsp;&emsp;&emsp;<img src="Results/Photo-to-Sketch-Universal/Results/126.jpg" width="40%"> 
 
-- [`Sketch-to-Photo Translation on CUFS:`](Results/Sketch-to-Photo-CUFS/README.md)
+- [`Sketch-to-Photo Translation on CUFS:`](Results/Sketch-to-Photo-CUFS/)
 
 <img src="Results/Sketch-to-Photo-CUFS/Results/7.jpg" width="20%">&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/67.jpg" width="20%">&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/87.jpg" width="20%">&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/128.jpg" width="20%">&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/188.jpg" width="20%">&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/189.jpg" width="20%">&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/214.jpg" width="20%">&emsp;&emsp;<img src="Results/Sketch-to-Photo-CUFS/Results/243.jpg" width="20%"> 
 
-- [`Sketch-to-Photo Translation on Universal Styles:`](Results/Sketch-to-Photo-Universal/README.md)
+- [`Sketch-to-Photo Translation on Universal Styles:`](Results/Sketch-to-Photo-Universal/)
 
-<img src="Results/Sketch-to-Photo-Universal/Results/1.jpg" width="30%">&emsp;&emsp;<img src="Results/Sketch-to-Photo-Universal/Results/18.jpg" width="30%">&emsp;&emsp;<img src="Results/Sketch-to-Photo-Universal/Results/35.jpg" width="30%">&emsp;&emsp;<img src="Results/Sketch-to-Photo-Universal/Results/52.jpg" width="30%">&emsp;&emsp;<img src="Results/Sketch-to-Photo-Universal/Results/75.jpg" width="30%">&emsp;&emsp;<img src="Results/Sketch-to-Photo-Universal/Results/58.jpg" width="30%"> 
+<img src="Results/Sketch-to-Photo-Universal/Results/1.jpg" width="30%">&emsp;<img src="Results/Sketch-to-Photo-Universal/Results/18.jpg" width="30%">&emsp;<img src="Results/Sketch-to-Photo-Universal/Results/35.jpg" width="30%">&emsp;<img src="Results/Sketch-to-Photo-Universal/Results/52.jpg" width="30%">&emsp;<img src="Results/Sketch-to-Photo-Universal/Results/75.jpg" width="30%">&emsp;<img src="Results/Sketch-to-Photo-Universal/Results/58.jpg" width="30%"> 
 
 **The results can also be downloaded from [Google Drive](https://drive.google.com/open?id=1gChfqjFrdysLVDtyzRjm3RCOGhMNXLgS), or from [Baidu Drive](https://pan.baidu.com/s/13_NaT3a-UOOrb7SFv0W_XQ)** with password `t2jn`.
 
